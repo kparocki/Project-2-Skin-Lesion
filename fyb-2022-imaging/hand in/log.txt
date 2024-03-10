@@ -1,0 +1,1056 @@
+commit b44bb0aa66d8876357a1402467849bafa4296f08
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Fri Apr 8 13:18:31 2022 +0200
+
+    Final Changes
+
+commit fec72fe1aec7983fa21221a4004cbf3098687a6a
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Fri Apr 8 13:17:40 2022 +0200
+
+    Final Changes
+
+commit 940f58e8e2f1e5a00db10b1546101665372912ee
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Fri Apr 8 13:01:40 2022 +0200
+
+    added symmetry graphics and some comments
+
+commit c0cd9b4969695191c0a86a5490998ac48d324f08
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Fri Apr 8 12:45:58 2022 +0200
+
+    coments
+
+commit 435b76b8021c1e6726325f61a4c526599cf5da50
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Fri Apr 8 12:42:12 2022 +0200
+
+    fix knn conf matrix
+
+commit bd9746fd5174147c5748af9c07923893d5b72ce3
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Fri Apr 8 12:37:29 2022 +0200
+
+    added color variance part
+
+commit 399ee0bac5a58c2d1d1353c7e5ae89c827cb1856
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Fri Apr 8 12:16:53 2022 +0200
+
+    go
+
+commit af21e9687a0f1987e171f8b21a697016ed59966b
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Fri Apr 8 12:10:29 2022 +0200
+
+    Confusion matrix CNN
+
+commit 20fa0bed64c5f51b0bf236dea01493e62a6bafc5
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Fri Apr 8 12:00:11 2022 +0200
+
+    Added my manual ratings to handin
+
+commit 9798fbaae493802acb62e03d4725037099bc5d1d
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Fri Apr 8 01:05:52 2022 +0200
+
+    Commenting code
+
+commit d1a4b6a138c4d23dbcb12113c033ed1979461828
+Merge: ae27ae3 fdf90c5
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 21:42:28 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit ae27ae387eb4ecc5a593e5a81384b7122890d0ca
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 21:42:22 2022 +0200
+
+    More stuff
+
+commit fdf90c5fd2a32fc8518a0ce39e6a202e3bdc6d3e
+Merge: dbf4bd8 f9a0b29
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Apr 7 21:41:44 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit dbf4bd80b960cc4d415db018afe09b472ec0c85d
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Apr 7 21:41:34 2022 +0200
+
+    kk
+
+commit f9a0b29ed74b39eaa3882541931c92672d3db565
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 21:40:59 2022 +0200
+
+    CNN finished
+
+commit 22c0d6834699d854e1e59704d9b9cd442e6aff18
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 21:22:07 2022 +0200
+
+    CNN added to hand in
+
+commit c215bb9764a8acd3bcb14392258883915bd16ea3
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 19:45:12 2022 +0200
+
+    cnn testing
+
+commit ea44918b79c068ca9794d963a1e63e1540828163
+Merge: 4ba032d bba34c2
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 19:13:50 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 4ba032dfee6e9eab750993f97edad99e8cf8c1e8
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 19:13:39 2022 +0200
+
+    CNN training file and savefile
+
+commit bba34c2e3073dcf868588041ad2d8afcfa0b9e8a
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Apr 7 18:50:06 2022 +0200
+
+    hand in done
+
+commit 1caf7137b863485de78bced86af4717c858fe45d
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Apr 7 17:37:10 2022 +0200
+
+    Update .gitignore
+
+commit 9f9bdf6be38243b25b3fd88c28774480c6d6e917
+Merge: deb3343 b979036
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Apr 7 17:35:38 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit deb334331d4d90cdf8d3856274973592115f6155
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Apr 7 17:35:35 2022 +0200
+
+    ok
+
+commit 2fa5df250a71df24be17fb1efc9f34b2923b066b
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 17:23:29 2022 +0200
+
+    CNN and manual feature extraction
+
+commit b97903601e9391d2bce954e13229a32e76570b35
+Merge: 5043939 809f1e2
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 15:24:40 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 5043939311ca3aa3671bc6389ccee3b003a1a9f9
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 15:23:59 2022 +0200
+
+    CNN datacleaning
+
+commit 809f1e227de78267a0a08e7d49639a87ab1ebdce
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Apr 7 14:20:29 2022 +0200
+
+    ok
+
+commit dbdfc4ae67e7ec2d3526fb907f5c87d7b946afc4
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 14:18:05 2022 +0200
+
+    Changes to main ipynb
+
+commit e039c5972563789693eda7a68748322abec55e81
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 11:31:21 2022 +0200
+
+    gitignore stuff
+
+commit 71c73c444b1e1c3d0781eb7455ec4b7601a355cf
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Apr 7 11:26:06 2022 +0200
+
+    Update .gitignore
+
+commit 446eb4c8e456dc93cbcf69af9100dc2121bfb996
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Apr 7 11:25:36 2022 +0200
+
+    Create main copy.ipynb
+
+commit 7ba2fdce925d3080f640007bf8399dd221393c05
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 10:41:17 2022 +0200
+
+    removed cnn pickles
+
+commit 81a7b280f9f4feb69146510ec33d291189c30662
+Merge: a5dc958 9fb2b18
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 10:38:39 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 9fb2b185578320a3ea508a082fe090ea8686fc92
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Apr 7 10:33:34 2022 +0200
+
+    added handin
+
+commit a5dc9581589853ed5516f1ce89d2ad1d49a36344
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Thu Apr 7 01:41:03 2022 +0200
+
+    Feature extraction full dataset (2000)
+
+commit 969012c64a27aea985c13db2081f28dbaa583386
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Wed Apr 6 22:46:06 2022 +0200
+
+    data 150 img added to out_rescaled
+
+commit e96695f66e7fa1af29b4e666b2c5c2257f5ab894
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Wed Apr 6 21:24:33 2022 +0200
+
+    Fixed pycache in gitignore
+
+commit 5f890e300a6bc041242a09d3943d1c18815cc89d
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Wed Apr 6 21:21:13 2022 +0200
+
+    more stuff
+
+commit 198ef121592dcdce91e47b14a77b5c53e5bea030
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Wed Apr 6 20:55:50 2022 +0200
+
+    added pickeling
+
+commit e869a226949c2c442eb339d69887a039d7ea5a35
+Merge: b4f1e4c 6d42f04
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Wed Apr 6 20:51:05 2022 +0200
+
+    cleared color function
+
+commit b4f1e4c18df34804a25bff9a3d9c43f9296965c4
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Wed Apr 6 20:49:57 2022 +0200
+
+    cleared color function, fixed scale image res
+
+commit 6d42f04b9e422570da78e079bf28e514b29c4d1d
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Wed Apr 6 19:10:29 2022 +0200
+
+    m
+
+commit f9be0874b20eaa05253a385e5c0c90bdf2e1ea54
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Wed Apr 6 19:10:27 2022 +0200
+
+    Update main.ipynb
+
+commit 8e5ec824a0e3da7d2af91258485d1da0ccb58b74
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Wed Apr 6 18:52:57 2022 +0200
+
+    Delete data.ipynb
+
+commit 9ed869bf47c34c646aea57dcba5f9c046ed91746
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 18:06:05 2022 +0200
+
+    more testing of model
+
+commit 0505e6cf3e1acbe496a1476ecb1605e9f47c342a
+Merge: e9cc168 a74104f
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 16:24:25 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit e9cc168d47091c023405c7aff9058d0b7af48614
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 16:23:59 2022 +0200
+
+    Feature extraction and selection
+
+commit a74104ffdfcef62303a68720dcdad97fb594d206
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Apr 5 16:22:24 2022 +0200
+
+    M
+
+commit 9f6a3950a2564ecaec48a32b803a618c7c7c4af1
+Merge: 7b25380 b3033c0
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 15:37:20 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 7b25380ae30834dc3a525c5c2f1ebf95132d4320
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 15:37:16 2022 +0200
+
+    renaming of final notebook
+
+commit b3033c0000964229231cfe78fc9dd42c4db09266
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Apr 5 15:36:21 2022 +0200
+
+    M
+
+commit 3bb65d9ac2d0ad8a9acf44f859c65f3d08eb183a
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Apr 5 15:23:00 2022 +0200
+
+    newest function
+
+commit fd7e0cfed6ff4ce0b408a146122346f3163eb10c
+Merge: 49052ee ea3b29a
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Apr 5 15:21:24 2022 +0200
+
+    color add
+
+commit 49052ee4fcf9e993d5effaed8484f768c7088970
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Apr 5 15:20:22 2022 +0200
+
+    color add
+
+commit ea3b29a914ebbbdddb42422d9da905a8f5d20eb1
+Merge: 3c92cee 2e381b3
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 15:13:21 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 3c92ceee2b723d93737a3c65a39d9d7842a0cd12
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 15:13:14 2022 +0200
+
+    Model training
+
+commit 2e381b33afc30736a617c15916963ad557326b98
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Apr 5 15:07:15 2022 +0200
+
+    M
+
+commit 8871222d008755194832f58b40f9ecad104c12f6
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Apr 5 15:05:44 2022 +0200
+
+    M
+
+commit 9c60b378534b711e8488dcb4b1d49390b4a9152b
+Merge: d45fd4f b2159c0
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Apr 5 14:59:20 2022 +0200
+
+    merge resolved
+
+commit d45fd4f5559b5e32d811eaafd34c3948f7fecfcd
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Apr 5 14:58:40 2022 +0200
+
+    color changes
+
+commit b2159c06281763c9dd6412903e6df051eaf123ce
+Merge: 3b78863 ba0d6ed
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 14:32:17 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 3b788632336bd243234ee6ee281e2ea710776154
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 14:28:41 2022 +0200
+
+    Rescale function
+
+commit ba0d6edcba38e3cfe261f05eb7f2f014c654734b
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Apr 5 14:27:33 2022 +0200
+
+    good
+
+commit 1a97d19a92f56b8c309afcc4a1bea528633ddfb4
+Merge: 77abf26 7f5ac74
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Apr 5 13:56:58 2022 +0200
+
+    functions merge
+
+commit 77abf264f5fe9c4063c3537fa609d2d6cca3ab1b
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Apr 5 13:54:49 2022 +0200
+
+    color
+
+commit 7f5ac742017c7f7bf4b0b650b7411b8df12df31d
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Apr 5 13:43:42 2022 +0200
+
+    M
+
+commit 84f569cc3de9ff24acaf5fa40b84e28ffd26a1d6
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 12:43:25 2022 +0200
+
+    Added rescaling function to util
+
+commit cddfaeaad6a6b74e89ccb5d27b3d7f3f108964ec
+Merge: 2287824 7d8d7ff
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 12:41:03 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 2287824c5a4bf30ab6a7840e07dd67514582aea1
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 12:40:12 2022 +0200
+
+    Added pycache to gitignore
+
+commit 7d8d7ff8a5e5558a29fb5a4e3e4fefc3d0a848ae
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Apr 5 12:36:52 2022 +0200
+
+    m
+
+commit 5be49538bfc713bcd9e1b8c427b453451bb8e3a2
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Apr 5 12:38:43 2022 +0200
+
+    Added rescaling of image resolution function
+
+commit 216d2d3c9382d94be6a2acc9c54d971992e38f9d
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Apr 5 12:16:11 2022 +0200
+
+    added symetry to extract
+
+commit 041a31f5d84bf2284fe674f44c1322c4480de049
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Apr 5 12:08:28 2022 +0200
+
+    Update groupXY_functions.py
+
+commit f2b2b8849447fcf89c70c29591d3ca6d13335134
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Apr 5 12:04:17 2022 +0200
+
+    m
+
+commit 4e8e37eeb28dce4ee607d6665cd3724f8ff3e460
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Apr 5 12:01:19 2022 +0200
+
+    M
+
+commit b03ee361cfdbde2933d210534c51a5f732f855be
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Apr 5 11:56:59 2022 +0200
+
+    cleaned util
+
+commit 09d9cddd0c1be50be4cfb4483fa62bb0479d56a3
+Merge: 99b2a00 d7b9ecc
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Apr 5 11:10:06 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 99b2a009a414a397e2cb7a785d9bac9db46d7939
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Apr 5 11:08:42 2022 +0200
+
+    fuck
+
+commit d7b9ecc203eec7b8a2ac644eb1fcb39ef5e75086
+Merge: b820609 f6b35d1
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Apr 5 10:32:04 2022 +0200
+
+    merged accepting incoming
+
+commit b820609c29933721de2137f99f33fe40577cd241
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Apr 5 10:29:48 2022 +0200
+
+    changes to color
+
+commit f6b35d124a5958ee8a32ce1f5dd078b13fbc9d5e
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Mon Apr 4 23:34:10 2022 +0200
+
+    added main
+
+commit aa54826a30a7d26286edddced64057674385adbd
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Mar 31 17:13:15 2022 +0200
+
+    go
+
+commit ef212f65f0efb485af86eedc3db135e73e2a66c7
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Thu Mar 31 16:36:11 2022 +0200
+
+    M
+
+commit 2d312213a8ecffe6ee8289a095ebc33fd4cfbfa7
+Merge: 6a9ab6c 1ec5b37
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 31 16:16:15 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 6a9ab6cae1304ffb3842ca4e8e6c50e171037f77
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 31 16:16:12 2022 +0200
+
+    color feature (almost-working beta)
+
+commit 1ec5b37238b8e4534e5052f7da674dd7626b7aca
+Author: Malthehave <malthehave@gmail.com>
+Date:   Thu Mar 31 15:05:34 2022 +0200
+
+    Added note to extract_mask_roi function
+
+commit 68e926d7a8bce7c6cf51a9a2bd6008330fbac466
+Merge: 814ad91 2618a62
+Author: Malthehave <malthehave@gmail.com>
+Date:   Thu Mar 31 15:04:57 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 814ad9189374d7773e9c271e3c84d964b964fbf2
+Author: Malthehave <malthehave@gmail.com>
+Date:   Thu Mar 31 15:04:55 2022 +0200
+
+    Added note on extract_mask_roi function
+
+commit 2618a623edfa6eedbdc30790af2130aadde30c6b
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Mar 31 13:53:40 2022 +0200
+
+    added path
+
+commit a8e9a5457d29d71c2e43fb331142eb7a153f4036
+Author: Malthehave <malthehave@gmail.com>
+Date:   Thu Mar 31 13:28:08 2022 +0200
+
+    Updated extract_mask_roi to return mask
+
+commit 15f95ed80e2fa4b64d7386b459c6191e21a9e679
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Thu Mar 31 12:36:23 2022 +0200
+
+    m
+
+commit b071347d2ebaac5dce7c2b853122544a5e707312
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Mar 31 12:11:30 2022 +0200
+
+    Create fe.py
+
+commit d54efff7e23624fffb587f93c3b685d9c8c6890e
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Wed Mar 30 20:07:06 2022 +0200
+
+    Delete imutils-0.5.4.tar.gz
+
+commit f4e102faa397761d0793a43187cb8a7a773f32f6
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Wed Mar 30 15:04:07 2022 +0200
+
+    cleaned a little
+
+commit c63a9222b350e4058c88bf4bfe90da33df2e7a15
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Wed Mar 30 14:44:52 2022 +0200
+
+    m
+
+commit ebfb750135424111b1c9bde876bdfccb84a81820
+Merge: 5dc1306 8309681
+Author: Malthehave <malthehave@gmail.com>
+Date:   Tue Mar 29 16:13:55 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 5dc13062c77123f74e63646c313482724a4de578
+Author: Malthehave <malthehave@gmail.com>
+Date:   Tue Mar 29 16:13:52 2022 +0200
+
+    Added biggest connected component check
+
+commit 8309681b54bbc5608e7a37b39f03501d097b2ae8
+Merge: 7240203 7594cdb
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Mar 29 15:53:39 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 7240203df400b4ff764f739d9f4409d6297793fd
+Author: Alexander Winther Nielsen <alwn@itu.dk>
+Date:   Tue Mar 29 15:51:52 2022 +0200
+
+    Run symmetry extraction for all 150 images
+
+commit 7594cdb9bf67682ea74d75585aa11f75779a5f71
+Author: Malthehave <malthehave@gmail.com>
+Date:   Tue Mar 29 15:46:45 2022 +0200
+
+    Removed unsued import
+
+commit 57f6f664ba5c4825a4681bbfd17ac6fc1c1f8e45
+Author: Malthehave <malthehave@gmail.com>
+Date:   Tue Mar 29 15:44:37 2022 +0200
+
+    Updated extrack mask roi function
+
+commit fc5fe0403deaca0db4b08074f31becf231496d4c
+Merge: b245d42 a21b22e
+Author: Malthehave <malthehave@gmail.com>
+Date:   Tue Mar 29 15:43:46 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit b245d42c7c56546c0864fa8ab3cc8db9e37abe53
+Author: Malthehave <malthehave@gmail.com>
+Date:   Tue Mar 29 15:43:42 2022 +0200
+
+    Created a new mask roi function
+
+commit a21b22eca927c58b17947de30f429294435f1353
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Mar 29 15:04:28 2022 +0200
+
+    m
+
+commit af4f3963259c3ca7c80d1cd32f69f56fe53753cf
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Mar 29 14:56:39 2022 +0200
+
+    m
+
+commit ab11103d4e9fba86404f3d44b308876f9779a7a5
+Author: Malthehave <malthehave@gmail.com>
+Date:   Tue Mar 29 13:51:25 2022 +0200
+
+    Updated threshold var
+
+commit ba35972a6a9830cdea073821be099f4a31f03156
+Author: Malthehave <malthehave@gmail.com>
+Date:   Tue Mar 29 13:16:44 2022 +0200
+
+    Changed thres to 95
+
+commit 55d5f6dcffe8a6a1b7314c9f661e20e3abe694a6
+Merge: 42db611 2d261d6
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 29 13:15:34 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 42db6118dc8d98ab5ce69701177fd09ae561a07e
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 29 13:15:31 2022 +0200
+
+    commit
+
+commit 2d261d614763e259a98d1fca673637cefa5b408d
+Author: Malthe Have Musaeus <malthehave@gmail.com>
+Date:   Tue Mar 29 12:34:50 2022 +0200
+
+    Updated .gitignore
+
+commit 0c89462bf85c85207636bcb2a2d55a38a6cdacc9
+Author: Malthe Have Musaeus <malthehave@gmail.com>
+Date:   Tue Mar 29 12:27:57 2022 +0200
+
+    Updated .gitignore
+
+commit 39a6f556b560eaf28081fc93bec07a2fb11b7858
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Mar 29 12:15:13 2022 +0200
+
+    m
+
+commit fc27de2d6636e636d5f2568025a39001183c7f47
+Merge: 9566970 1f15535
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 29 11:46:39 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 95669705558cd976fc36e69a5b775acfc3242d62
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 29 11:46:27 2022 +0200
+
+    added some data exploration
+
+commit 1f155350590044f839124d1a0333456303b58ad6
+Merge: d908b8b 6a29470
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 29 11:46:07 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit d908b8b600479b04597d8bee01ccc9fd707338a2
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 29 11:45:55 2022 +0200
+
+    color_feature added as jupiter
+
+commit 6a294708dd54fc6d40f0568dd18310259b727d62
+Merge: 8d14437 1cb8d4b
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 29 10:47:33 2022 +0200
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 8d14437a428e4a8f4c0e1ad440f722bb3274c718
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 29 10:47:16 2022 +0200
+
+    Update features.py
+
+commit 1cb8d4b6ab1bfefa99ebd41315954f2a197f6cb7
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 29 10:06:41 2022 +0200
+
+    added new notebook
+
+commit e70839d886cd3665b4c0426a5f16f66f495f6fb7
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Mon Mar 28 23:40:53 2022 +0200
+
+    figured color conversions in cv2
+
+commit 766bae9b9fcd91e309a441c7ec3e654c47547afd
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Mar 24 15:19:44 2022 +0100
+
+    ok
+
+commit ac5677c19506942c1c4a86eb1e69d92641d3fc1e
+Merge: cb67365 f0c40e8
+Author: Malthehave <malthehave@gmail.com>
+Date:   Thu Mar 24 14:48:01 2022 +0100
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit cb67365be4dcbe47243c7edd80a898abb42bc0ca
+Author: Malthehave <malthehave@gmail.com>
+Date:   Thu Mar 24 14:47:59 2022 +0100
+
+    Added docstring
+
+commit f0c40e83f0e6f1da54c4d12834cdc472e9453dac
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 24 14:47:34 2022 +0100
+
+    added function usage
+
+commit 9ac653e17e9625811080616dc62778b494e42af4
+Author: Malthehave <malthehave@gmail.com>
+Date:   Thu Mar 24 14:41:57 2022 +0100
+
+    Added return statement
+
+commit dec6ac9ae752775c3f3f781fedf1184f1b87beb2
+Author: Malthehave <malthehave@gmail.com>
+Date:   Thu Mar 24 14:40:45 2022 +0100
+
+    Removed imshow in mask function
+
+commit c76eac25ef58631b93eb11fc419d1761289d9578
+Merge: fb6eadb 0ca7b87
+Author: Malthehave <malthehave@gmail.com>
+Date:   Thu Mar 24 14:40:19 2022 +0100
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit fb6eadbae8be6fd68cc69e5d6db658728d381893
+Author: Malthehave <malthehave@gmail.com>
+Date:   Thu Mar 24 14:40:14 2022 +0100
+
+    Added extract_mask_roi function
+
+commit 0ca7b8729947d3cd0b389545b16f937c35f75eda
+Merge: 0b82051 536734c
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 24 14:38:50 2022 +0100
+
+    commit
+
+commit 0b82051b3fbaded2fda999c9020e4c6e6a4943c3
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 24 14:36:58 2022 +0100
+
+    color_quantization
+
+commit 536734c82b35d370ed399c9deab3b403b8cf55a5
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Mar 24 12:36:44 2022 +0100
+
+    check
+
+commit d9ea38c26f0cc21b943b37147834f44e8d0198a3
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Thu Mar 24 12:35:33 2022 +0100
+
+    mus
+
+commit b7b67f1bb2fcb8d607b0c7bb42a9cfae7a4130d6
+Merge: 9125ec7 53e99c9
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 24 11:32:09 2022 +0100
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit 9125ec7dfc364b8f9f0c0726db0ad7695af43dc9
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 24 11:32:06 2022 +0100
+
+    added evaluating features notebook
+
+commit 53e99c913ad0adb67c948d356e9c5df18ed40301
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Thu Mar 24 10:16:11 2022 +0100
+
+    Update features.py
+
+commit 4020530c420bcedbb9b9d357b2dcc0615ab6b1a1
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 24 00:25:53 2022 +0100
+
+    fixed my kernel, modified superpixels a bit
+
+commit b1ce91a6a3d44479a6c0f64366d223a0a681ca27
+Merge: 28e3870 724c1a1
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Wed Mar 23 17:55:47 2022 +0100
+
+    m
+
+commit 28e3870fbed80e95ea26a4cde7cceb06e743752a
+Merge: eb73bd7 fb68356
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Wed Mar 23 17:54:40 2022 +0100
+
+    m
+
+commit 724c1a11907bbacce3b51550464908b8c61c9ebf
+Merge: 5e053df fb68356
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Wed Mar 23 17:52:40 2022 +0100
+
+    Merge branch 'main' of https://github.com/Hetling/fyb-2022-imaging
+
+commit eb73bd77e33aa3dbc3814b750a66a0de400b5bc7
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Wed Mar 23 17:52:03 2022 +0100
+
+    m2
+    m
+
+commit 5e053df4a32d46a9470eba4d7821b9b1f8913a4c
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Wed Mar 23 17:48:56 2022 +0100
+
+    added symetry
+
+commit fb683563b81234790117f1497b1e92c50d369078
+Author: Malthe <malthehave@gmail.com>
+Date:   Wed Mar 23 17:45:18 2022 +0100
+
+    Added check_asymmetry function
+
+commit a7b0bb3221364fae47d3b2ebc3453da9ab620d34
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 22 16:03:25 2022 +0100
+
+    change comments
+
+commit bab079732d5484880b37798fa1d386ca890e91b0
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 22 15:59:18 2022 +0100
+
+    added color feature
+
+commit 6e005fb15a158d7bb7597607ac58baeb07e2582a
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 15:17:05 2022 +0100
+
+    no array csv
+
+commit 1b7d5aa1625f2ddfc42a49d863f41560668991ba
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 15:04:13 2022 +0100
+
+    done
+
+commit 2d880da8e1380ce3406801dc583a14f4560e665c
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 14:35:54 2022 +0100
+
+    changed names of func
+    
+    averageColors -> averageColorsSimple
+
+commit 9a82addb21c99080eb49fcccab3fea5f6240e5be
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 14:28:00 2022 +0100
+
+    made bbox array
+
+commit 3d10349ac964b72f45a59dddf7fb99aa8c05a667
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 14:08:29 2022 +0100
+
+    updating funciton calls
+
+commit 15e078afecbf2e082db9fa9c80a225c5a7faa45d
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 14:02:03 2022 +0100
+
+    changed spaces
+
+commit d018f25a34e75615e60139a40bdddf017dfd9be2
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 13:59:50 2022 +0100
+
+    changed names test -> features
+
+commit 92dffbd4044f0e4eaf007d4c7e08adbc5f89629f
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 13:53:01 2022 +0100
+
+    bbox added
+
+commit 33aee2b798ba50090934cc3e8f2d38a4a13ae584
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 13:48:12 2022 +0100
+
+    made funcitons
+
+commit ef901b0ec9e9e0fc1931af4739653b3dc96c5b0f
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 22 13:47:42 2022 +0100
+
+    added manual features csv
+
+commit 23b7e0770ec6a7e3052933011f3c8354f6e4435a
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 13:40:27 2022 +0100
+
+    added avg color
+
+commit 71d0940d07956da17e9acc0fe7f3dc26d3024236
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 13:38:29 2022 +0100
+
+    test
+
+commit 86cdf2e1cb3bc2e7649ceab5cc10047cde201fbc
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 12:59:05 2022 +0100
+
+    made paths
+
+commit 8f41d306e7a9a3b04bec5294b15eea9d8f90b1fa
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 12:53:26 2022 +0100
+
+    changed config
+
+commit 07ea8533f93f74a365c1e2f2a197579ba5b74dcd
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 12:49:34 2022 +0100
+
+    Update test.py
+
+commit da566ee9dccf63530d7e768e7231fab691c6af20
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 12:48:52 2022 +0100
+
+    ok
+
+commit 5138418d0030d1d0a3a056bc228a7b633fa8b90a
+Merge: a587fb3 ba72feb
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Mar 22 12:33:48 2022 +0100
+
+    itin
+
+commit a587fb397ba88086b5cb25ae81e854625ad14ff9
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Tue Mar 22 12:31:43 2022 +0100
+
+    m
+
+commit ba72feb1e545e4ae2655bd96e9a07d683501bcc5
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Tue Mar 22 12:27:17 2022 +0100
+
+    plotting
+
+commit 321d9273bd45e8d6ddafe33dc7d8c28e49b9ce3c
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 22 11:34:56 2022 +0100
+
+    Added teacher's notebooks
+
+commit 0052d1dc86255ad2ba18c408f025fa62f471dd25
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 22 00:19:55 2022 +0100
+
+    converted data into ipynb
+
+commit ce9a6b350cb00307f2d08fbcd054961e87ab9787
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Fri Mar 18 14:00:55 2022 +0100
+
+    added test and data
+
+commit 09cb437ffe8cd9a209136711c3f63f5e2ef69be1
+Author: Malthehave <malthehave@gmail.com>
+Date:   Fri Mar 18 12:06:03 2022 +0100
+
+    Fixed small typo
+
+commit 0ed834a53e2e738b96ca9f06e089bb6fe7d9da46
+Author: Erling Amundsen <erlingamundsen@Erlings-MacBook-Pro.local>
+Date:   Fri Mar 18 12:00:22 2022 +0100
+
+    m
+
+commit da88bb3f565f137209b6b15444b610f4f162deef
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Fri Mar 18 11:35:11 2022 +0100
+
+    commit
+
+commit 2130019943b7a1f5dd74e7846275b3dc2c1b9487
+Author: Hetling <74573287+Hetling@users.noreply.github.com>
+Date:   Fri Mar 18 11:33:36 2022 +0100
+
+    Initial commit
